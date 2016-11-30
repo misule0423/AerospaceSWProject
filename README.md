@@ -1,5 +1,6 @@
 # AerospaceSWProject
 
+Pixhawk, Arudino Pro mini, ROS, MAVROS
 
 ros intall
 http://wiki.ros.org/
